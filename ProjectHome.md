@@ -6,6 +6,4 @@ For further information regarding general concepts and theory, please visit: [Se
 
 ## Testing ##
 
-If you want to try neat-python, please check out from the subversion repository, you can start playing with the XOR example and then follow creating your own experiment.
-
-This project is not in active development as it has reached its purpose.
+If you want to try neat-python, please check out the repositor, start playing with the XOR example and then follow creating your own experiment.
